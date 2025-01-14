@@ -2,16 +2,6 @@
 
 This project implements a **Gender and Age Detection** system using **Convolutional Neural Networks (CNN)** and **OpenCV**. The model can predict a person's gender and age group from a single image of their face with high accuracy (95%) using the **Adience Dataset**.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Dataset](#dataset)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Results](#results)
-- [License](#license)
-
 ## Introduction
 
 The objective of this project is to classify a person's gender (Male/Female) and age into one of the following ranges:
