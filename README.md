@@ -47,5 +47,5 @@ The model is trained on the **Adience Dataset**, a public domain dataset with ov
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/gender-age-detection.git
+   git clone https://github.com/shashwatmurawala/Gender-and-Age-Detection.git
    cd gender-age-detection
